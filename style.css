@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?vpo9gf');
-  src:  url('fonts/icomoon.eot?vpo9gf#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?vpo9gf') format('truetype'),
-    url('fonts/icomoon.woff?vpo9gf') format('woff'),
-    url('fonts/icomoon.svg?vpo9gf#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?g84dtr');
+  src:  url('fonts/icomoon.eot?g84dtr#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?g84dtr') format('truetype'),
+    url('fonts/icomoon.woff?g84dtr') format('woff'),
+    url('fonts/icomoon.svg?g84dtr#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -70,48 +70,51 @@
 .icon-envelope:before {
   content: "\e90e";
 }
-.icon-eye:before {
+.icon-exclamation:before {
   content: "\e90f";
 }
-.icon-flag-checkered:before {
+.icon-eye:before {
   content: "\e910";
 }
-.icon-heart:before {
+.icon-flag-checkered:before {
   content: "\e911";
 }
-.icon-house-damage:before {
+.icon-heart:before {
   content: "\e912";
 }
-.icon-lock:before {
+.icon-house-damage:before {
   content: "\e913";
 }
-.icon-map-marker-alt:before {
+.icon-lock:before {
   content: "\e914";
 }
-.icon-map-signs:before {
+.icon-map-marker-alt:before {
   content: "\e915";
 }
-.icon-pencil-ruler:before {
+.icon-map-signs:before {
   content: "\e916";
 }
-.icon-plus:before {
+.icon-pencil-ruler:before {
   content: "\e917";
 }
-.icon-route:before {
+.icon-plus:before {
   content: "\e918";
 }
-.icon-search:before {
+.icon-route:before {
   content: "\e919";
 }
-.icon-star:before {
+.icon-search:before {
   content: "\e91a";
 }
-.icon-times-circle:before {
+.icon-star:before {
   content: "\e91b";
 }
-.icon-trash-alt:before {
+.icon-times-circle:before {
   content: "\e91c";
 }
-.icon-user-alt:before {
+.icon-trash-alt:before {
   content: "\e91d";
+}
+.icon-user-alt:before {
+  content: "\e91e";
 }
